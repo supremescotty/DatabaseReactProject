@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with Create React App (Continue with node_modeules from @babel)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
