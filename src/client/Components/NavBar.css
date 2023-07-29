@@ -1,0 +1,43 @@
+.navbar-container {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #2f363d;
+  border-radius: 0.25em;
+  border: 1px solid black;
+  min-height: 3.5em;
+  display: flex;
+  width: 80%;
+  margin-left: 10%;
+  position: absolute;
+  margin-top: 10px;
+}
+.homeicon-container {
+  width: 48px;
+  height: 48px;
+  border-radius: 128px;
+  background-color: white;
+  align-self: center;
+  align-content: center;
+  justify-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  bottom: 20px;
+  border: 2px solid rgba(25, 118, 210, 1);
+  padding: 5px;
+}
+
+.title{
+    
+    font-size:1rem;
+    position: absolute;
+    align-self: flex-end;
+    margin-bottom:2px;
+    margin: 0 auto;
+    left:0;
+    right:0;
+
+}

@@ -1,0 +1,27 @@
+.container {
+  width: 100%;
+  height: auto;
+  height: auto;
+  margin: 0 auto;
+  flex-direction: column;
+  position: relative;
+  top: 5rem;
+}
+
+.page-container {
+  width: 85%;
+  min-height: auto;
+  height: auto;
+  padding: 1.5rem;
+  padding-bottom: 15rem;
+  padding-top: 10rem;
+  align-items: center;
+  justify-self: center;
+  justify-content: center;
+  background-color: rgba(0, 131, 143, 0.6);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 0.25em;
+  border: 2px solid rgba(189, 189, 189, 1);
+  flex-direction: column;
+}
